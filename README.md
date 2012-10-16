@@ -11,4 +11,4 @@ _The script should allow/do the following:_
 
 ### Schema (table_name - field_1, field_2, ... )
 
-*postings* - company_name, website, posting_url, title, location, description, email
+**postings** - company_name, website, posting_url, title, location, description, email
