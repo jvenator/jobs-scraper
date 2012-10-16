@@ -8,3 +8,5 @@ _The script should allow/do the following:_
 * execute search
 * loop through the search results to store and/or visit each page
 ** scrape the desired data based on CSS tags
+#### Schema (*table_name* - field\_1, field\_2, ... )
+*postings* - company_name, website, posting_url, title, location, description, email
