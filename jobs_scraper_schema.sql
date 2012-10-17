@@ -1,9 +1,9 @@
--- DROP TABLE postings;
+DROP TABLE postings;
 
 CREATE TABLE postings (
 	id INTEGER PRIMARY KEY,
 	posting_url TEXT,
-	company_name TEXT,
+	company TEXT,
 	website TEXT,
 	title TEXT,
 	location TEXT,
